@@ -115,3 +115,11 @@ typings/
 
 # TernJS port file
 .tern-port
+
+# Jekyll files
+_site
+.sass-cache
+.jekyll-metadata
+
+# Bundler files
+**/vendor/bundle
